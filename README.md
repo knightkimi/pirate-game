@@ -9,7 +9,6 @@ This is a solution for *n* pirates.
 [Interesting situation] when *n*>200.
 
 - Input: the number of pirates
-- Output: *n*th, *n-1*th, ... , *1*st
-
+- Output: n, n-1, ... , 1
 [Wikipedia]: http://en.wikipedia.org/wiki/Pirate_game
-[Interesting situation]: http://en.wikipedia.org/wiki/Pirate_game#extension
+[Interesting situation]: http://en.wikipedia.org/wiki/Pirate_game#Extension
